@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-art-ui&label=Profile%20views&color=0e75b6&style=flat" alt="raj-art-ui" /> </p>
 
-- 🔭 I’m currently working on **"📌 Currently working on hands-on projects in my Data Analyst Job-Ready Program, including: 📊 Budget Sheet Analysis in Excel (Financial data handling & visualization) 📈 Power BI Portfolio (Interactive dashboards & data storytelling)"**
+- 🔭 I’m currently working on **"📌  hands-on projects on analysing data  including: 📊 Budget Sheet Analysis in Excel (Financial data handling & visualization) 📈 Power BI Portfolio (Interactive dashboards & data storytelling)"**
 
-- 🌱 I’m currently learning **"📚 Currently Learning: 📊 Excel (Data cleaning, analysis & automation) 📈 Power BI (Dashboards, data visualization & reporting) 🐍 Python (Data manipulation, analysis & visualization) 📑 SQL (Querying & managing databases)**
+- 🌱 I’m currently learning **"📚 📊 Excel (Data cleaning, analysis & automation) 📈 Power BI (Dashboards, data visualization & reporting) 🐍 Python (Data manipulation, analysis & visualization) 📑 SQL (Querying & managing databases)**
 
 - 📫 How to reach me **rajrauniyar83@gmail.com**
 
